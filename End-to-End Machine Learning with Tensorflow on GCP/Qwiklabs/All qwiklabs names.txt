@@ -1,0 +1,7 @@
+Qwiklab names
+1. Explore dataset
+2. Create a sample dataset
+3. Create Tensorflow model
+4. Preprocessing using Dataflow 
+5. Training on Cloud AI Platform
+6. Deploying and predicting with Cloud AI platform
